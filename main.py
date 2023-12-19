@@ -9,5 +9,5 @@ with col1:
 
 with col2:
     st.title("Kfir Zusman")
-    content = """Hi im Kfir, begginer python programmer and delepoed a few apps already"""
+    content = """Hi I am Kfir, begginer python programmer and delepoed a few apps already"""
     st.info(content)
